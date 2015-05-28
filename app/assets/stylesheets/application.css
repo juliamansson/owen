@@ -14,9 +14,25 @@
  *= require_self
  */
 
+body {
+  display: table;
+  width:100%;
+}
 
 h1, h3 {
-  color: gray;
+  font-size: 40px;
+  font-family: "Karla";
   text-align: center;
+  display: table-cell;
+  vertical-align: center;
+}
+
+h1 {
+  color: gray;
+}
+
+h3 {
+  color: #D3D3D3;
+
 }
 
