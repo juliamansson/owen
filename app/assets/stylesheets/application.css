@@ -17,21 +17,28 @@
 
 
 
-
 h1, h3 {
   
   text-align: center;
   font-family: "Karla";
+
   
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 45px;
   color: gray;
-  margin-top: 500px;
+  margin-top: 650px;
+  float: left;
+  padding-left: 290px;
+  
+
 }
 
 h3 {
+  padding-right: 290px;
+  float: right;
+  margin-top: 660px;
   font-size: 30px;
   color: #D3D3D3;
 }
