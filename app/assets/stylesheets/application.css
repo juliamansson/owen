@@ -16,44 +16,15 @@
 
 
 
-
-h1, h3 {
-  text-align: center;
-  font-family: "Karla"; 
-  display: inline;
-  
-
-}
-
-h1 {
-  font-size: 45px;
-  color: gray;
-  padding-left: 395px;
-
-
-  /*margin-top: 650px;*/
-  /*float: left;*/
-  /*padding-left: 290px;*/
-}
-
-h3 {
-  /*padding-right: 290px;*/
-  /*float: right;*/
-  /*margin-top: 660px;*/
-  font-size: 30px;
-  color: #D3D3D3;
-}
-
 img {
-  width: 35%;
-  height: 35%;
+  text-align: center;
   display: block;
+  max-width: 200px;
   margin: 0 auto;
-  border-radius: 100%;
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
+  padding-top: 350px;
 
+
+}
 
 
 
